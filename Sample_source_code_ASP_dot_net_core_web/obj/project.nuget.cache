@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nzQtrv1OfEo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin123456\\source\\repos\\Sample_source_code_ASP_dot_net_core_web\\Sample_source_code_ASP_dot_net_core_web\\Sample_source_code_ASP_dot_net_core_web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin123456\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-rc.2.25502.107\\microsoft.aspnetcore.openapi.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\admin123456\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
